@@ -1,1 +1,4 @@
-asasas
+
+<footer id="id_footer">
+Welcome to my footer
+</footer>
