@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 AHORA VOY A CAMBIAR ESTO....
-=======
+
 
 <footer id="id_footer">
 Welcome to my footer --- ytcollazo
 </footer>
->>>>>>> master
+
